@@ -19,9 +19,10 @@ A dark theme for [Obsidian](https://obsidian.md) with clean typography, gradient
 
 ## Installation
 
-1. Copy the `Phantom Flow` folder into `<your vault>/.obsidian/themes/Phantom Flow/`.
-2. In Obsidian, go to **Settings → Appearance** and select the **Phantom Flow** theme.
-3. Install and enable the **Style Settings** community plugin to access customization options, including switching color palettes.
+1. Donwload [Phantom Flow Release 1.0](https://github.com/robisonweb/phantom-flow/releases/tag/1.0.0)
+2. Copy the `Phantom Flow` folder into `<your vault>/.obsidian/themes/Phantom Flow/`.
+3. In Obsidian, go to **Settings → Appearance** and select the **Phantom Flow** theme.
+4. Install and enable the **Style Settings** community plugin to access customization options, including switching color palettes.
 
 ## Switching color palettes
 
