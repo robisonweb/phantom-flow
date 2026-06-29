@@ -1,23 +1,32 @@
 # Phantom Flow
 
-Um tema escuro para o [Obsidian](https://obsidian.md).
+A dark theme for [Obsidian](https://obsidian.md) with clean typography, gradient-colored folders, and multiple selectable color palettes.
 
-## Destaques
+![Phantom Flow theme](https://raw.githubusercontent.com/robisonweb/phantom-flow/refs/heads/main/docs/images/phantom_flow.png)
 
-- Tipografia em **Roboto** (fonte embutida localmente, sem dependência de internet).
-- Fundo com tons mais escuros e azulados que o Nord original.
-- Degradê de cores nas pastas do explorador de arquivos, com fonte de título maior.
-- **3 paletas de cores selecionáveis** via plugin [Style Settings](https://github.com/obsidian-community/obsidian-style-settings):
-  - **Nord** (padrão)
-  - **Sunset**
-  - **Forest**
+## Features
 
-## Instalação
+- **Roboto typography** — the font is bundled locally with the theme, so it works fully offline.
+- **Custom dark background** — deeper, cooler tones than a standard Nord palette.
+- **Gradient folder colors** — each top-level folder in the file explorer gets a distinct color, with a larger title font for better readability.
+- **3 selectable color palettes**, switchable live via the [Style Settings](https://github.com/obsidian-community/obsidian-style-settings) plugin:
 
-1. Copie a pasta `Phantom Flow` para `<seu vault>/.obsidian/themes/Phantom Flow/`.
-2. No Obsidian, vá em **Configurações → Aparência** e selecione o tema **Phantom Flow**.
-3. Instale e ative o plugin da comunidade **Style Settings** para acessar as opções de personalização, incluindo a troca de paleta de cores.
+| Nord (default) | Sunset | Forest |
+| --- | --- | --- |
+| ![Nord palette](https://raw.githubusercontent.com/robisonweb/phantom-flow/refs/heads/main/docs/images/cor-nord.png) | ![Sunset palette](https://raw.githubusercontent.com/robisonweb/phantom-flow/refs/heads/main/docs/images/cor-sunset.png) | ![Forest palette](https://raw.githubusercontent.com/robisonweb/phantom-flow/refs/heads/main/docs/images/cor-forest.png) |
 
-## Licença
+## Installation
 
-GPL-3.0 — veja o arquivo [LICENSE](LICENSE) para detalhes.
+1. Copy the `Phantom Flow` folder into `<your vault>/.obsidian/themes/Phantom Flow/`.
+2. In Obsidian, go to **Settings → Appearance** and select the **Phantom Flow** theme.
+3. Install and enable the **Style Settings** community plugin to access customization options, including switching color palettes.
+
+## Switching color palettes
+
+Open **Settings → Style Settings**, expand the **Phantom Flow - Color Palette** section, and pick a palette from the dropdown. The change applies instantly — no reload required.
+
+![Style Settings palette switcher](https://raw.githubusercontent.com/robisonweb/phantom-flow/refs/heads/main/docs/images/style_settings_01.png)
+
+## License
+
+GPL-3.0 — see the [LICENSE](LICENSE) file for details.
