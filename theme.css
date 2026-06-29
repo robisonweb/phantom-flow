@@ -1,5 +1,8 @@
 /*
  * Phantom Flow
+ * Autor: @robisonweb * 
+ * https://github.com/robisonweb/phantom-flow/
+ *
 */
 
 /* @settings
@@ -626,7 +629,7 @@ settings:
         title: Removals toggle
         description: Globally toggle my various removals
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-folder-nav
         title: Remove folder nav
@@ -644,7 +647,7 @@ settings:
         title: Remove sidebar indicators
         description: Remove the sidebar indicators. They can still be opened with hotkeys
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-win-lside-tl
         title: Remove mod top left
@@ -656,61 +659,61 @@ settings:
         title: Remove statusbar
         description: Removes the bottom statusbar
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-tablist
         title: Remove tablist icon
         description: Removes the header tab list icon
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-nt
         title: Remove new tab icon
         description: Removes the new tab header icon
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-clstab
         title: Remove close icon
         description: Remove the close X from tabs
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-nav
         title: Remove nav icons
         description: Remove the back and forward icons
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-act
         title: Remove view actions
         description: Remove the view action icons from the top of notes
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-noteic
         title: Remove note icon
         description: Remove the note icon from stacked tabs (we all know is a note...)
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-scroll
         title: Remove scroll bars
         description: Hide scroll bars, hover to view them
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-mac-tside
         title: Hide top bar in MacOS
         description: Hide the top bar on MacOS when in stacked tabs. (Works best in Frameless/hidden title bars)
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-rm-srchSug
         title: Hide search help
         description: Hide the pop up that appears when clicking the search field
         type: class-toggle
-        default: true
+        default: false
     -
         id: pf-head-check
         title: Checkbox modifications
