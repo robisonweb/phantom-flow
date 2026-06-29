@@ -4,6 +4,8 @@ A dark theme for [Obsidian](https://obsidian.md) with clean typography, gradient
 
 ![Phantom Flow theme](https://raw.githubusercontent.com/robisonweb/phantom-flow/refs/heads/main/docs/images/phantom_flow.png)
 
+![Color Palettes](https://github.com/robisonweb/phantom-flow/blob/main/docs/images/phantom_flow_02.png)
+
 ## Features
 
 - **Roboto typography** — the font is bundled locally with the theme, so it works fully offline.
